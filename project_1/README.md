@@ -8,7 +8,7 @@
 [5. Результат](https://github.com/S-Walk/SF/edit/main/project_1/README.md#Результат)  
 [6. Выводы](https://github.com/S-Walk/SF/edit/main/project_1/README.md#Выводы)
 
-### Опписание проекта
+### Описание проекта
 Угадать загаданное компьютером число за минимально количество попыток.
 
 :arrow_up: [к оглавлению](https://github.com/S-Walk/SF/edit/main/project_1/README.md#Оглавление)
