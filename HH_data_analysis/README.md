@@ -18,7 +18,7 @@
 ### Краткая информация о данных
 - Исходный датасет: https://drive.google.com/file/d/1QRfRVUWv46lGMmBx7lofqwdRK90G2AXb/view?usp=sharing
 - Вспомогательная таблица с курсами валют: https://drive.google.com/file/d/1bFr1aNZl_bp8QC3OiNe4nWmBQNK15KEi/view?usp=sharing
-- Графики к модулю разведывательного анализа в формате HTML: https://github.com/S-Walk/SF/tree/main/HH_data_analysis/Grafics
+- Графики к модулю разведывательного анализа в формате HTML и PNG: https://github.com/S-Walk/SF/tree/main/HH_data_analysis/Grafics
 
 ### Этапы работы над проектом
 - Базовый анализ структуры данных.
